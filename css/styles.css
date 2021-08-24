@@ -9,7 +9,9 @@
   --hero-footer-background-color: #2f303a;
   --body-color: #e5e5e5;
 }
-
+.ul {
+  list-style: none;
+}
 body {
   font-family: Roboto, sans-serif;
   background-color: var(--primary-background-color);
